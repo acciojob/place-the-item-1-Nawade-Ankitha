@@ -3,7 +3,6 @@
 }
 .container{
 	display:flex;
-	color:red;
 	flex-direction: row;
 	flex-wrap: wrap;
 	justify-content:space-between;
